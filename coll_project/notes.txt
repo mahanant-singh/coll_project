@@ -1,0 +1,3 @@
+CORS ka full form Cross-Origin Resource Sharing hai.
+
+CORS ka kaam hai browser ko control karne dena ki ek origin (jaise React frontend) doosre origin (jaise FastAPI backend) se data access kar sakta hai ya nahi.
